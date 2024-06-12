@@ -120,6 +120,7 @@ SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 CORS_ALLOWED_ORIGINS = [
     "https://6666d09933c73416fd0c5e50--beta-gaming.netlify.app",
+    "https://beta-gaming.netlify.app"
 ]
 
 # Internationalization
